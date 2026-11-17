@@ -120,3 +120,6 @@ Total Cost: ₹14,757
 
 ## 🛠**Tech Stack**
 Python, LangChain, Groq / Gemini LLMs, Open-Meteo API, Pydantic, Streamlit, pytest.
+
+## Streamlit app
+("https://travelplanner-agent-lv99wfomx37pjttutnzhbg.streamlit.app/")
